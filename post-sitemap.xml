@@ -9,8 +9,16 @@
 
 
     <url>
+        <loc>http://example.com/2024/06/01/%E6%99%AE%E9%80%9A%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/</loc>
+        <lastmod>2024-05-31T20:18:04.172Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>http://example.com/2024/05/30/%E6%B5%8B%E8%AF%95/</loc>
-        <lastmod>2024-05-30T14:26:42.446Z</lastmod>
+        <lastmod>2024-05-30T18:50:20.850Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
