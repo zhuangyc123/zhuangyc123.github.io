@@ -3,17 +3,17 @@
 
 
     <sitemap>
-        <loc>https://zhuangyc123.github.io/project/post-sitemap.xml</loc>
+        <loc>https://zhuangyc123.github.io/post-sitemap.xml</loc>
         <lastmod>2024-06-02T16:41:01.407Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>https://zhuangyc123.github.io/project/page-sitemap.xml</loc>
+        <loc>https://zhuangyc123.github.io/page-sitemap.xml</loc>
         <lastmod>2024-06-02T18:09:45.783Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>https://zhuangyc123.github.io/project/tag-sitemap.xml</loc>
+        <loc>https://zhuangyc123.github.io/tag-sitemap.xml</loc>
         <lastmod>2024-06-02T06:55:13.580Z</lastmod>
     </sitemap>
 

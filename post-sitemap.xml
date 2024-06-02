@@ -2,14 +2,14 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>https://zhuangyc123.github.io/project/</loc>
+        <loc>https://zhuangyc123.github.io/</loc>
         <changefreq>daily</changefreq>
         <priority>1</priority>
     </url>
 
 
     <url>
-        <loc>https://zhuangyc123.github.io/project/4202/06/01/%E6%99%AE%E9%80%9A%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/</loc>
+        <loc>https://zhuangyc123.github.io/4202/06/01/%E6%99%AE%E9%80%9A%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/</loc>
         <lastmod>2024-06-02T16:41:01.407Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -17,7 +17,7 @@
     </url>
 
     <url>
-        <loc>https://zhuangyc123.github.io/project/2024/05/30/%E6%B5%8B%E8%AF%95/</loc>
+        <loc>https://zhuangyc123.github.io/2024/05/30/%E6%B5%8B%E8%AF%95/</loc>
         <lastmod>2024-06-02T06:55:13.580Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
