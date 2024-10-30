@@ -9,8 +9,24 @@
 
 
     <url>
+        <loc>https://zhuangyc123.github.io/2024/10/30/10.28/</loc>
+        <lastmod>2024-10-30T18:11:48.438Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://zhuangyc123.github.io/2024/09/24/%E5%86%B7%E6%B9%96%E5%AE%9E%E4%B9%A0/</loc>
         <lastmod>2024-10-11T18:59:13.045Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://zhuangyc123.github.io/2023/06/30/%E3%80%8A%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%BF%AE%E5%85%BB%E4%B8%8E%E6%B3%95%E5%BE%8B%E5%9F%BA%E7%A1%80%E3%80%8B%E8%AE%BA%E6%96%87/</loc>
+        <lastmod>2024-10-06T10:37:37.771Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -26,14 +42,6 @@
 
     <url>
         <loc>https://zhuangyc123.github.io/2024/06/01/%E6%99%AE%E9%80%9A%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/</loc>
-        <lastmod>2024-10-06T10:37:37.771Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://zhuangyc123.github.io/2023/06/30/%E3%80%8A%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%BF%AE%E5%85%BB%E4%B8%8E%E6%B3%95%E5%BE%8B%E5%9F%BA%E7%A1%80%E3%80%8B%E8%AE%BA%E6%96%87/</loc>
         <lastmod>2024-10-06T10:37:37.771Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
